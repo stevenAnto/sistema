@@ -1,5 +1,6 @@
 <h1>Sistema de registro</h1>
-![Static Badge](https://img.shields.io/badge/Hola-Mundo-blue)
+
+![Hola Mundo](https://img.shields.io/badge/Hola-Mundo-blue)
 
 
 
